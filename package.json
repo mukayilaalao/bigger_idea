@@ -1,0 +1,24 @@
+{
+  "name": "bigger_idea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "func.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukayilaalao/bigger_idea.git"
+  },
+  "keywords": [],
+  "author": "Mukayila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukayilaalao/bigger_idea/issues"
+  },
+  "homepage": "https://github.com/mukayilaalao/bigger_idea#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
